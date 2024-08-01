@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align = "center">
+    </br>
+  <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, i'm hash ^^ !</h1>
+<br>
+</div>
 
-<!--
-**a2heus/a2heus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github stats, Current Streak and Most Used Languages
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XiraSec210&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=XiraSec210&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiraSec210&layout=compact&theme=radical&hide_border=true&show_icons=true" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave"></p>
