@@ -1,14 +1,24 @@
-<div align = "center">
-    </br>
-  <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, i'm hash ^^ !</h1>
-<br>
-</div>
+# Bonjour, je suis a2heus 👋
 
-## Github stats, Current Streak and Most Used Languages
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=a2heus&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=a2heus&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2heus&layout=compact&theme=radical&hide_border=true&show_icons=true" />
-</p>
+Bienvenue sur mon profil GitHub!
 
-<p align="center"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave"></p>
+## 📊 Mes Statistiques GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a2heus&show_icons=true&theme=radical)
+
+## 🚀 Langages de Programmation les Plus Utilisés
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2heus&layout=compact&theme=radical)
+
+## 🎯 Mes Activités Récentes
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=a2heus&theme=redical)
+
+## 🛠️ Technologies et Outils
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
