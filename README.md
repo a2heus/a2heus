@@ -10,9 +10,9 @@ Bienvenue sur mon profil GitHub!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a2heus&layout=compact&theme=radical)
 
-## 🎯 Mes Activités Récentes
+## 🚀 Contributions GitHub
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=a2heus&theme=redical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=a2heus&theme=radical)
 
 ## 🛠️ Technologies et Outils
 
@@ -22,3 +22,4 @@ Bienvenue sur mon profil GitHub!
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+
