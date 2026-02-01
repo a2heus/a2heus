@@ -3,12 +3,9 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=H4SH&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=high%20school%20student%20|%20CTF%20Player%20|%20I%20love%20reverse&descSize=18&descAlignY=55&descColor=8b949e"/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%24+whoami;%3E+Security+Researcher+%7C+RE+%7C+Crypto+%7C+PWN" alt="Typing SVG" /></a>
-
 <!-- PROFILE VIEWS & SOCIAL -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=161b22&labelColor=0d1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=a2heus&style=for-the-badge&color=161b22&labelColor=0d1117&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
